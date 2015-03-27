@@ -1,0 +1,7 @@
+C:\android\AppRestrictions\Application\build\intermediates\classes\release
+C:\android\AppRestrictions\Application\build\intermediates\pre-dexed\release\internal_impl-21.0.2-d43802ffd89b9934e8785a4e0423fdbbf05789f0.jar
+C:\android\AppRestrictions\Application\build\intermediates\pre-dexed\release\support-annotations-21.0.2-fa883d6290039362849f114a5bf013892e2506b3.jar
+C:\android\AppRestrictions\Application\build\intermediates\pre-dexed\release\classes-201f7d7bd8a8acb0def061f9a28a67e2796c028b.jar
+C:\android\AppRestrictions\Application\build\intermediates\pre-dexed\release\classes-a47b5a39039a74ae078d250b2b2a9e3bc7050a23.jar
+C:\android\AppRestrictions\Application\build\intermediates\pre-dexed\release\internal_impl-21.0.2-8ee5aaaceb2c3882e2ed7ef587a48bb0a1da65ca.jar
+C:\android\AppRestrictions\Application\build\intermediates\pre-dexed\release\classes-ca1c42faa8fb0b95913201688a4c8dff06496a2b.jar
